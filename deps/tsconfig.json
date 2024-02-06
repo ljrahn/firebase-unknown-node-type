@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "module": "NodeNext",
+    "outDir": "./build",
+    "strict": true,
+    "esModuleInterop": true,
+    "declaration": true
+  }
+}
